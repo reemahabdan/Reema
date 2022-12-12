@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Reema ALhabdan")
             Text("Github")
+            Text("I WANT MY BADGE!")
         }
         .padding()
     }
